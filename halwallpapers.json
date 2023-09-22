@@ -47,11 +47,6 @@
   {
     "id": 9,
     "img_src": "https://www.nasa.gov/sites/default/files/images/721196main_721020main_heic1301a_full.jpg",
-    "category": [1, 4]
-  },
-  {
-    "id": 10,
-    "img_src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LARGE_elevation.jpg",
-    "category": [1]
+    "category": [1, 2, 4]
   }
 ]
