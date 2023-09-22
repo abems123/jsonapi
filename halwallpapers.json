@@ -53,15 +53,5 @@
     "id": 10,
     "img_src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LARGE_elevation.jpg",
     "category": [1]
-  },
-  {
-    "id": 11,
-    "img_src": "https://www.hhi-ni.com/wp-content/uploads/2017/05/6823214-large.jpg",
-    "category": []
-  },
-  {
-    "id": 12,
-    "img_src": "https://images.pexels.com/photos/3774243/pexels-photo-3774243.jpeg?cs=srgb&dl=pexels-james-wheeler-3774243.jpg&fm=jpg",
-    "category": []
   }
 ]
