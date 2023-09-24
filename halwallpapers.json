@@ -31,22 +31,42 @@
   },
   {
     "id": 6,
-    "img_src": "https://i.imgur.com/XQiYyqD.jpg",
-    "category": []
+    "img_src": "https://i.imgur.com/zaB6IPx.jpg",
+    "category": [2, 5]
   },
   {
     "id": 7,
-    "img_src": "https://i.imgur.com/EWy6bxQ.jpeg",
-    "category": [1, 2, 4]
+    "img_src": "https://img.freepik.com/free-photo/view-daunting-witch-character_23-2150674773.jpg",
+    "category": [2, 5]
   },
   {
     "id": 8,
-    "img_src": "https://i.imgur.com/4sSlKrY.jpg",
-    "category": [1]
+    "img_src": "https://img.freepik.com/free-photo/rendering-wizard-controlling-magic_23-2150608357.jpg",
+    "category": [2, 5]
   },
   {
     "id": 9,
-    "img_src": "https://www.nasa.gov/sites/default/files/images/721196main_721020main_heic1301a_full.jpg",
-    "category": [1, 2, 4]
+    "img_src": "https://i.imgur.com/ffecf8M.jpg",
+    "category": [1, 4]
+  },
+  {
+    "id": 10,
+    "img_src": "https://i.imgur.com/YcRtOEW.jpg",
+    "category": [1, 6, 7]
+  },
+  {
+    "id": 11,
+    "img_src": "https://i.imgur.com/pAOib5t.jpg",
+    "category": [1, 6, 7]
+  },
+  {
+    "id": 12,
+    "img_src": "https://images.unsplash.com/photo-1601830976337-e32f60eba315?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80",
+    "category": [5]
+  },
+  {
+    "id": 13,
+    "img_src": "https://i.imgur.com/4BOjhS2.jpg",
+    "category": [5]
   }
 ]
