@@ -84,5 +84,5 @@
   , {"id": 18, "img_src": "https://i.imgur.com/mDVlwVW.jpg", "category": [1]}
   , {"id": 19, "img_src": "https://i.imgur.com/VHHwXaj.jpg", "category": [1]}
   , {"id": 20, "img_src": "https://i.imgur.com/QBy6uYU.jpg", "category": [3, 4]}
-  
+  , {"id": 21, "img_src": "https://i.imgur.com/YBKtAvo.jpg", "category": [2, 3, 4, 6]}
 ]
